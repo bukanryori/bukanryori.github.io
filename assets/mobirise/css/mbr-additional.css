@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+
+#header1-1 P {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-align: left;
+  font-size: 14px;
+}
+#header1-1 SPAN {
+  font-size: 24px;
+}
+#header2-i H1 {
+  font-size: 24px;
+}
+#header2-i P {
+  font-size: 14px;
+}
+#ext_menu-4 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-4.mbr-navbar--stuck .mbr-navbar__section {
+  background: #222222;
+}
+#ext_menu-4 .mbr-navbar__section {
+  background: #222222;
+}
+#ext_menu-4 .mbr-navbar__hamburger {
+  color: #4c6972;
+}
+#social-buttons2-b .mbr-header__text {
+  color: #4c6972;
+  font-size: 15px;
+}
