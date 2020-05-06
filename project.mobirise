@@ -101,7 +101,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "C H E F",
-          "text": "<p>Takeshi Tong from Hong Kong&nbsp;<br>Inspired by manga \"Shota no Sushi\" and grew interests in Japanese cooking</p><p>1997年から日本料理の修行を始める。<br></p><p>2006年キャリアを磨くために日本仙台の寿司屋で経験を積んだ。2007から五年間香港の４星ホテル「逸東酒店」に和食料理長を経った。</p><p>2014年外の世界へ踏み出して、スイスの四つ星ホテル「Hotel Ambassador Bern」のシェフに赴任、いろいろな国籍のシェフと交流した。</p><p>2015年5月13日38歳で香港に「武館」を開店。<br><br></p>",
+          "text": "<p>Takeshi Tong from Hong Kong&nbsp;<br>Inspired by manga \"Shōta no Sushi\" and grew interests in Japanese cooking</p><br><p>1997 - Started carreer in Japanese cuisine<br>2006 - Worked as an exchange chef in a sushi restaurant in Sendai, Japan<br>2007 - Led a kitchen brigade as Japanese Head Chef at Hong Kong's 4-star \"Eaton Hotel\"<br>2014 - Further broadened culinary horizons at Switzerland's 4-star hotel \"Hotel Ambassador Bern\"</p><p><br>12 May 2015 Opened \"BUKAN\" in Hong Kong</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -111,10 +111,15 @@
           "_anchor": "header2-i",
           "_styles": {
             "H1": {
-              "font-size": "24px"
+              "font-size": "24px",
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "P": {
-              "font-size": "14px"
+              "font-size": "14px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           }
         },
@@ -146,6 +151,10 @@
             },
             ".mbr-navbar__hamburger": {
               "color": "#4c6972"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header1-1\">HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-gray\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header2-i\">CHEF</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-gray\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-3\">CUISINE</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-gray\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery2-j\">JOY</a></li>",
@@ -352,13 +361,23 @@
               "stateDetails": ""
             }
           },
-          "text1": "<b>営業時間</b>\n<br>19：00~21：30最終入店\n<br>\n<br><b>定休日</b><br>日曜日（祝日営業）\n<br>\n<br><b>住所</b> \n<br>香港九龍大角咀博文街19号1/F \n<br>オリンピック駅　<br>出口B2から徒歩3分<br>\n<br><b>電話番号</b>\n<br>+852-53289669\n<br>（WHATSAPP/LINE）",
-          "text2": "<p class=\"mbr-contacts__text\"><b>ネット予約</b></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://www.openrice.com/zh/hongkong/r-%E6%AD%A6%E9%A4%A8-%E5%A4%A7%E8%A7%92%E5%92%80-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%BB%9A%E5%B8%AB%E7%99%BC%E8%BE%A6-r451571\" target=\"_blank\">Openrice</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\">Facebook</a></li><li><b><br></b></li><li><b><br></b></li><li><b><br></b></li><li><b>メール</b><br></li></ul><p><a href=\"mailto:takeshikuro@gmail.com\">takeshikuro@gmail.com</a></p><p><b><br></b></p>",
+          "text1": "<b>OPENING HOURS</b>\n<br>19:00 to 21:30 (Last Order)&nbsp;<br>\n<br><font face=\"Lora, serif\"><b>CLOSED DAYS</b></font><br>Sunday <br>(Opening on Public Holidays)<br>\n<br><b>ADDRESS</b><br>19 Pok Man Street, Tai Kok Tsui, Kowloon, Hong Kong (3 Mins Walk from Olympic Station)<br>\n<br><b>CONTACT NO</b>&nbsp;<br>+852-53289669\n<br>（WHATSAPP/LINE）",
+          "text2": "<p class=\"mbr-contacts__text\"><b>ONLINE RESERVATION</b></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"https://www.openrice.com/zh/hongkong/r-%E6%AD%A6%E9%A4%A8-%E5%A4%A7%E8%A7%92%E5%92%80-%E6%97%A5%E6%9C%AC%E8%8F%9C-%E5%BB%9A%E5%B8%AB%E7%99%BC%E8%BE%A6-r451571\" target=\"_blank\">Openrice</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/mobirise-free-win.zip\">Facebook</a></li><li><b><br></b></li><li><b>E-MAIL</b><br></li></ul><p><a href=\"mailto:takeshikuro@gmail.com\">takeshikuro@gmail.com</a></p><p><b><br></b></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-g"
+          "_anchor": "contacts2-g",
+          "_styles": {
+            "B": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         },
         {
           "_params": {
